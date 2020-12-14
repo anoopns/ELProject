@@ -17,9 +17,11 @@ The Framework uses a factory class to initialize the selenium webdriver. Current
 
 Total Time taken to complete the project:
 Test case writing - 1 to 1.5 hours
+Manual test case location - https://github.com/anoopns/ELProject/blob/master/Manual%20Tests.xlsx
 
 FrameWork & Test case automation:
 Framework - around 4 hours
 Test case writing - aroun 2 hours
+
 
 
